@@ -54,7 +54,7 @@ function Header() {
       <div className="container">
         <div className="brand">
           <h1>CONACOF</h1>
-          <span>Consultoría Académica, Contable y Fiscal</span>
+          <span>Consultoría Contable y Fiscal</span>
         </div>
 
         <nav>

@@ -30,13 +30,13 @@ function CTA() {
             <span className="section-badge badge-light">Atención profesional</span>
             <h2>Recibe orientación clara, confiable y personalizada</h2>
             <p>
-              Ya sea para apoyo académico, contable o fiscal, en CONACOF estamos
+              Ya sea para apoyo contable o fiscal, en CONACOF estamos
               listos para ayudarte con atención profesional y seguimiento oportuno.
             </p>
 
             <div className="cta-final-actions">
               <a
-                href="https://wa.me/529991325426?text=Hola,%20quiero%20informaci%C3%B3n%20sobre%20sus%20servicios"
+                href="https://wa.me/529999066129?text=Hola,%20quiero%20informaci%C3%B3n%20sobre%20sus%20servicios"
                 className="btn-primary"
                 target="_blank"
                 rel="noreferrer"

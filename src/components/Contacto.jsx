@@ -197,7 +197,7 @@ function Contacto() {
                     className={errors.servicio ? 'error' : ''}
                   >
                     <option value="">Selecciona un servicio</option>
-                    <option value="academico">Consultoría Académica</option>
+                    <option value="academico">Asesoría para Emprendedores</option>
                     <option value="contable">Consultoría Contable</option>
                     <option value="fiscal">Consultoría Fiscal</option>
                   </select>
@@ -252,7 +252,7 @@ function Contacto() {
                   <FaPhoneAlt />
                   <div>
                     <strong>Teléfono</strong>
-                    <p>99 91 32 54 26</p>
+                    <p>99 99 06 61 29</p>
                   </div>
                 </div>
 
@@ -274,7 +274,7 @@ function Contacto() {
               </div>
 
               <a
-                href="https://wa.me/529991325426?text=Hola,%20quiero%20información%20sobre%20sus%20servicios"
+                href="https://wa.me/529999066129?text=Hola,%20quiero%20información%20sobre%20sus%20servicios"
                 className="btn-secondary whatsapp-direct"
                 target="_blank"
                 rel="noreferrer"

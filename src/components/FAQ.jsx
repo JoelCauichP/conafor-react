@@ -6,7 +6,7 @@ const faqItems = [
   {
     question: '¿Qué tipo de servicios ofrece CONACOF?',
     answer:
-      'Ofrecemos consultoría académica, contable y fiscal, incluyendo apoyo en tesis, protocolos, facturación, declaraciones, constancias fiscales y otros servicios relacionados.',
+      'Ofrecemos consultoría contable y fiscal, incluyendo apoyo en facturación, declaraciones, constancias fiscales y otros servicios relacionados.',
   },
   {
     question: '¿La atención es personalizada?',

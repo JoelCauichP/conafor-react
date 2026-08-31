@@ -33,14 +33,14 @@ const servicios = [
   },
   {
     icon: <FaGraduationCap />,
-    title: 'Consultoría Académica',
+    title: 'Nómina y Seguridad Social',
     description:
-      'Asesoría especializada para estudiantes y profesionistas en procesos académicos y de investigación.',
+      'Gestión y asesoría para el correcto cumplimiento de las obligaciones laborales y de seguridad social de tu negocio.',
     items: [
-      'Redacción de tesis y protocolos',
-      'Corrección de estilo académico',
-      'Normas APA y otros formatos',
-      'Metodología de investigación',
+      'Cálculo y procesamiento de nómina',
+      'Altas, bajas y modificaciones ante el IMSS',
+      'Cálculo de cuotas y obligaciones patronales',
+      'Orientación en prestaciones y obligaciones laborales',
     ],
   },
 ];
@@ -54,8 +54,7 @@ function Servicios() {
             <span className="section-badge">Servicios</span>
             <h2>Soluciones profesionales para cada necesidad</h2>
             <p>
-              Brindamos atención personalizada en servicios fiscales, contables y
-              académicos, con enfoque profesional, claro y confiable.
+              Brindamos atención personalizada en servicios fiscales y contables con enfoque profesional, claro y confiable.
             </p>
           </div>
         </Reveal>

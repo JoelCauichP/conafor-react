@@ -25,7 +25,7 @@ function FloatingButtons() {
   return (
     <div className="floating-buttons">
       <a
-        href="https://wa.me/529991325426?text=Hola,%20quiero%20más%20información%20sobre%20sus%20servicios"
+        href="https://wa.me/529999066129?text=Hola,%20quiero%20más%20información%20sobre%20sus%20servicios"
         className="floating-btn floating-whatsapp"
         target="_blank"
         rel="noreferrer"

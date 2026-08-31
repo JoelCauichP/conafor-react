@@ -26,16 +26,15 @@ function Hero() {
         <Reveal direction="left">
           <div className="hero-content">
             <p className="hero-tag">Consultoría profesional en Mérida, Yucatán</p>
-            <h1>Consultoría académica, contable y fiscal</h1>
+            <h1>Consultoría contable y fiscal</h1>
             <p className="hero-description">
-              Te apoyamos en servicios contables, trámites fiscales y asesoría
-              académica con atención personalizada, profesional y confiable.
+               Te brindamos soluciones contables y fiscales con atención profesional, clara y confiable.
             </p>
 
             <div className="hero-contact-data">
               <div className="contact-chip">
                 <FaWhatsapp />
-                <span>99 91 32 54 26</span>
+                <span>99 99 06 61 29</span>
               </div>
 
               <div className="contact-chip">
@@ -46,7 +45,7 @@ function Hero() {
 
             <div className="hero-actions">
               <a
-                href="https://wa.me/529991325426"
+                href="https://wa.me/529999066129"
                 className="btn-primary"
                 target="_blank"
                 rel="noreferrer"
